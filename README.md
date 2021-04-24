@@ -12,13 +12,13 @@ Here I will write what's there in the different code files:
 6. Text summarization has codes for the extractive text summarization appraoch.
 
 ##Datafiles and other outputs
-1. We have uploaded 5 datafiles that we used for modelling:
--->Kiva_loan_lenders_sample_2000 contains sample information for different loans and their corresponding lenders.
--->Kiva_loan_sample_data contains the sample information for different loans and their corresponding features, such as loan description and borrower information.
--->Kiva_loans_lenders acts as a joining table.
--->Web_Scrap_Interest_Group contains the information for the different user interest groups - this was scraped from the Kiva Website.
--->Web_Scrap_Partner_Info contains the field partner information scraped from the Kiva Website.
+We have uploaded 5 datafiles that we used for modelling:
+1. Kiva_loan_lenders_sample_2000 contains sample information for different loans and their corresponding lenders.
+2. Kiva_loan_sample_data contains the sample information for different loans and their corresponding features, such as loan description and borrower information.
+3. Kiva_loans_lenders acts as a joining table.
+4. Web_Scrap_Interest_Group contains the information for the different user interest groups - this was scraped from the Kiva Website.
+5. Web_Scrap_Partner_Info contains the field partner information scraped from the Kiva Website.
 
-2. Output files: We have also uploaded 2 output .png files - these are the sample newsletters and modified sampled kiva landing page which contains the result of text summarization model.
+Output files: We have also uploaded 2 output .png files - these are the sample newsletters and modified sampled kiva landing page which contains the result of text summarization model.
 
 Happy Coding! 
