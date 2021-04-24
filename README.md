@@ -13,7 +13,7 @@ Here I will write what's there in the different code files:
 
 ##Datafiles and other outputs
 We have uploaded 5 datafiles that we used for modelling:
-1. Kiva_loan_lenders_sample_2000 contains sample information for different loans and their corresponding lenders.
+1. Kiva_lender contains sample information for different loans and their corresponding lenders.
 2. Kiva_loan_sample_data contains the sample information for different loans and their corresponding features, such as loan description and borrower information.
 3. Kiva_loans_lenders acts as a joining table.
 4. Web_Scrap_Interest_Group contains the information for the different user interest groups - this was scraped from the Kiva Website.
