@@ -1,6 +1,5 @@
-# BT5153-Group-Project
-Applied Machine Learning Group Project
-#Group 9 Members: He Dongying, Kwok Shi Ann Sheranne, Lee Kok Mun, Mittal Sidharth and Poh Huizhen Isabella
+# BT5153-Group-Project (Applied Machine Learning Group Project)
+# Group 9 Members: He Dongying, Kwok Shi Ann Sheranne, Lee Kok Mun, Mittal Sidharth and Poh Huizhen Isabella
 
 # Codes
 Here I will write what's there in the different code files:
